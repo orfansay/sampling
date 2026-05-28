@@ -40,30 +40,24 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `3`
 
 Describe the purpose of your survey:
-```
-write your answer here...
+The purpose of the study is to explore the relationship between music taste and age. It compares between different people of different ages and compares the same individual at different ages during their lifetime. Moreover, the study examines the influence of age on music tastes, particularly popular music. ```
+
 ```
 
+
 Describe your target population, sampling frame, sampling units, and observational units:
-```
-write your answer here...
-```
+The target population will be all age groups including teenagers, adults, and older adults. Students, faculty and staff at the University of Toronto as well as individuals who reachable through online survey will be selected (sampling frame). The sampling unit will be each individual participant. A stratified sampling strategy will be used. Participants will be groups by age categories, and within each group, participants will be selected using convenience sampling. ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What is your age group?
+2. How would you describe your current music preferences?
+3. What are your top 2–3 favorite music genres? 
+4. Do you think your music taste has changed over time?
+5. If your music taste has changed, at what stage of life did the biggest change occur?
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +65,19 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1.	Sample type: Cross-sectional design
+2.	Sample size: I was unable to locate the exact sample size, but the document mentioned that the completion of 24,000 questionnaires was expected.
+3.	Target population: all persons 15 years of age and older living in the ten provinces of Canada. It excludes full-time (residing for more than six months) residents of institutions.
+4.	Sampling frame: A combination of landline and cellular telephone numbers from the Census and various administrative sources
+5.	Survey mode(s): Electronic interviews – phone 
+6.	Timeline: 2018-09-04 to 2018-12-28
+7.	Response rate: 41.9%
+8.	Weights: Validation of responses, coding of variables, creation of derived variables and integration with classification variables (e.g., income, education)
+9.	Cleaning, imputation, etc: Invalid responses were corrected or removed; some missing values were estimated using statistical methods and data were anonymized before released.
+10.	Sources of error: Non-response error due to 41.9% response rate, sampling error, construct error (items used may not have captured the construct well), and participants may not have responded to items accurately for various reasons. 
+11.	Limitations, known biases, etc: One limitation was that it collected data from 10 Canadian provinces and did not include territories. 
+12.	Link to documentation and any additional sources used: https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234 
+
 ```
 
 ## Rubric
